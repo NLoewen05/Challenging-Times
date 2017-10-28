@@ -1,0 +1,2 @@
+module DanburgersHelper
+end
