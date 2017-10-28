@@ -1,0 +1,2 @@
+class DanBurger < ApplicationRecord
+end
